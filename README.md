@@ -1,16 +1,6 @@
-CryptoseedScraper
-CryptoseedScraper is a Python script that generates an unlimited number of Bitcoin addresses and keys, checks them against a list of target addresses, and saves the matched addresses along with their private keys.
+free bitcoin / evm seed scanner / generator 
 
-Requirements
-Python 3.6 or higher
-ecdsa (pip install ecdsa)
-base58 (pip install base58)
-Bloom filters (pip install pybloom_live) - HuntBL
-Usage
-Prepare a text file named btcaddress.txt containing the target Bitcoin addresses, with one address per line.
-Run the script using python Hunt.py.
-The script will generate an unlimited number of Bitcoin addresses and keys, both compressed and uncompressed, and check if they match any of the addresses in btcaddress.txt. If a match is found, the script will save the matched address and its corresponding private key in a file named Found.txt.
+https://t.me/EUSignalDilf 
 
-Disclaimer
-This script is provided for educational purposes only. The use of this script for malicious purposes or activities that violate ethical guidelines is strictly prohibited. The user is solely responsible for any consequences resulting from the use of this script.
+PLEASE DONATE IF YOU HAVE ANY LUCK WITH MY SOFTWARE 
 
