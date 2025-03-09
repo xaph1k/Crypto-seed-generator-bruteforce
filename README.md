@@ -1,5 +1,8 @@
 free bitcoin / evm seed scanner / generator 
 
+anti virus needs to be disabled due to this product being obscuefated
+
+
 https://t.me/EUSignalDilf 
 
 PLEASE DONATE IF YOU HAVE ANY LUCK WITH MY SOFTWARE 
